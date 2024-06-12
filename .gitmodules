@@ -1,0 +1,3 @@
+[submodule "frontend/my-twa/src"]
+    path = frontend/my-twa/src
+    url = https://github.com/EdenCapital/my-twa.git

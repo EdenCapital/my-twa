@@ -22,6 +22,7 @@
         "typescript": "^5.4.5"
     },
     "dependencies": {
-        "@orbs-network/ton-access": "^2.3.3"
+        "@orbs-network/ton-access": "^2.3.3",
+        "@twa-dev/sdk": "^7.0.0"
     }
 }
